@@ -7,13 +7,25 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Mirror Fashion.</h1>
-    <h2>Bem-vindo à Mirror Fashion, sua loja de roupas e acessórios.</h2>
-    <ul>
-      <li>Confira nossas promoções.</li>
-      <li>Receba informações sobre nossos lançamentos por email.</li>
-      <li>Navegue por todos nossos produtos em catálogo.</li>
-      <li>Compre sem sair de casa.</li>
-    </ul>
-  </body>
+    <h1>Currículo Vitae</h1>
+    <div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
+				 <span class="given-name">Ademir</span>
+				  <span class="additional-name">Mazer</span>
+				  <span class="family-name">Jr</span>
+				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
+
+				 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">ademir.mazer.jr@gmail.com</a>
+				 <a class="url" href="http://ademir.winponta.com.br">http://ademir.winponta.com.br</a>
+				
+				<div class="adr">
+				  <span class="locality">Ponta Grossa</span>
+				, 
+				  <span class="region">Paraná</span>
+
+				 </div>
+				</div>
+		</div>
+		</body>
 </html>
